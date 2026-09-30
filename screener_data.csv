@@ -1,17 +1,17 @@
 Ticker,Nama,Region,Harga,Fair Value,MoS (%),Status Valuasi,P/E,P/B,ROE (%),Div Yield (%),RSI (14),Tren (vs MA200),F-Score
-BBCA.JK,Bank Central Asia Tbk,Indonesia,6225.0,8836.5,29.55,Undervalued (Diskon),13.19,2.83,21.82,612.0,29.55,Downtrend (Bearish),6
-BBRI.JK,Bank Rakyat Indonesia (Persero),Indonesia,3140.0,798.26,-293.36,Overvalued (Mahal),7.72,1.47,18.99,1331.0,27.87,Downtrend (Bearish),5
-BMRI.JK,Bank Mandiri (Persero) Tbk,Indonesia,4020.0,31122.74,87.08,Undervalued (Diskon),6.02,1.32,22.38,1351.0,27.46,Downtrend (Bearish),6
-ASII.JK,Astra International Tbk,Indonesia,4670.0,9873.5,52.7,Undervalued (Diskon),6.31,0.81,11.98,835.0,30.3,Downtrend (Bearish),3
-TLKM.JK,Telkom Indonesia (Persero) Tbk.,Indonesia,2370.0,5585.57,57.57,Undervalued (Diskon),13.29,1.97,17.68,942.0,22.0,Downtrend (Bearish),3
-ICBP.JK,Indofood CBP Sukses Makmur Tbk.,Indonesia,6650.0,10503.61,36.69,Undervalued (Diskon),10.5,1.47,12.55,398.0,31.03,Downtrend (Bearish),3
-UNTR.JK,United Tractors Tbk,Indonesia,24375.0,54002.13,54.86,Undervalued (Diskon),11.53,0.91,7.44,899.0,27.27,Downtrend (Bearish),3
-ADRO.JK,Alamtri Resources Indonesia Tbk,Indonesia,2590.0,-,-,Tidak Tersedia,7.09,16187.5,12.34,913.0,35.29,Uptrend (Bullish),2
-AAPL,Apple Inc.,US,,97.87,-,Tidak Tersedia,39.08,45.98,148.75,32.0,81.46,Downtrend (Bearish),5
-MSFT,Microsoft Corporation,US,,130.47,-,Tidak Tersedia,28.35,8.55,34.04,76.0,64.33,Downtrend (Bearish),5
-GOOGL,Alphabet Inc.,US,,180.6,-,Tidak Tersedia,17.21,6.73,48.68,26.0,54.07,Downtrend (Bearish),5
-AMZN,"Amazon.com, Inc.",US,,10.32,-,Tidak Tersedia,19.8,4.81,30.56,0.0,41.48,Downtrend (Bearish),4
-NVDA,NVIDIA Corporation,US,,57.9,-,Tidak Tersedia,28.97,24.13,117.21,44.0,49.45,Downtrend (Bearish),4
-META,"Meta Platforms, Inc.",US,,302.4,-,Tidak Tersedia,26.97,6.98,29.85,28.0,77.56,Downtrend (Bearish),4
-BRK-B,Berkshire Hathaway Inc. New,US,,257.21,-,Tidak Tersedia,12.65,0.0,12.12,0.0,49.57,Downtrend (Bearish),4
-TSLA,"Tesla, Inc.",US,,22.78,-,Tidak Tersedia,330.97,16.25,4.67,0.0,53.89,Downtrend (Bearish),5
+BBCA.JK,Bank Central Asia Tbk,Indonesia,6150.0,8834.02,30.38,Undervalued (Diskon),13.04,2.79,21.82,620.0,31.71,Downtrend (Bearish),6
+BBRI.JK,Bank Rakyat Indonesia (Persero),Indonesia,3170.0,794.56,-298.96,Overvalued (Mahal),7.79,1.48,18.99,1319.0,30.16,Downtrend (Bearish),5
+BMRI.JK,Bank Mandiri (Persero) Tbk,Indonesia,4030.0,30840.85,86.93,Undervalued (Diskon),6.04,1.32,22.38,1347.0,29.94,Downtrend (Bearish),6
+ASII.JK,Astra International Tbk,Indonesia,4700.0,9873.5,52.4,Undervalued (Diskon),6.35,0.82,11.98,830.0,37.7,Downtrend (Bearish),3
+TLKM.JK,Telkom Indonesia (Persero) Tbk.,Indonesia,2370.0,5585.57,57.57,Undervalued (Diskon),13.29,1.74,17.68,942.0,20.41,Downtrend (Bearish),3
+ICBP.JK,Indofood CBP Sukses Makmur Tbk.,Indonesia,6675.0,10503.61,36.45,Undervalued (Diskon),10.55,1.48,12.55,397.0,32.2,Downtrend (Bearish),3
+UNTR.JK,United Tractors Tbk,Indonesia,25175.0,54002.13,53.38,Undervalued (Diskon),11.9,0.94,7.44,871.0,39.62,Downtrend (Bearish),3
+ADRO.JK,Alamtri Resources Indonesia Tbk,Indonesia,2470.0,-,-,Tidak Tersedia,6.97,15437.5,12.34,958.0,26.09,Uptrend (Bullish),2
+AAPL,Apple Inc.,US,,97.87,-,Tidak Tersedia,37.73,44.76,148.75,32.0,77.93,Downtrend (Bearish),5
+MSFT,Microsoft Corporation,US,,130.47,-,Tidak Tersedia,28.34,8.54,34.04,77.0,60.69,Downtrend (Bearish),5
+GOOGL,Alphabet Inc.,US,,180.6,-,Tidak Tersedia,17.12,6.7,48.68,26.0,59.8,Downtrend (Bearish),5
+AMZN,"Amazon.com, Inc.",US,,10.32,-,Tidak Tersedia,19.84,4.82,30.56,0.0,42.53,Downtrend (Bearish),4
+NVDA,NVIDIA Corporation,US,,57.9,-,Tidak Tersedia,28.69,23.96,117.21,44.0,56.99,Downtrend (Bearish),4
+META,"Meta Platforms, Inc.",US,,302.4,-,Tidak Tersedia,27.83,7.21,29.85,29.0,62.62,Downtrend (Bearish),4
+BRK-B,Berkshire Hathaway Inc. New,US,,257.21,-,Tidak Tersedia,12.64,0.0,12.12,0.0,45.66,Downtrend (Bearish),4
+TSLA,"Tesla, Inc.",US,,22.78,-,Tidak Tersedia,329.76,16.04,4.67,0.0,42.04,Downtrend (Bearish),5
