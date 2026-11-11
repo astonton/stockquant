@@ -1,17 +1,17 @@
 Ticker,Nama,Region,Harga,Fair Value,MoS (%),Status Valuasi,P/E,P/B,ROE (%),Div Yield (%),RSI (14),Tren (vs MA200),F-Score
-BBCA.JK,Bank Central Asia Tbk,Indonesia,5300.0,8834.02,40.0,Undervalued (Diskon),10.97,2.3,21.2,715.0,50.7,Downtrend (Bearish),6
-BBRI.JK,Bank Rakyat Indonesia (Persero),Indonesia,2840.0,794.56,-257.43,Overvalued (Mahal),6.98,1.32,18.99,1488.0,52.46,Downtrend (Bearish),5
-BMRI.JK,Bank Mandiri (Persero) Tbk,Indonesia,3730.0,31002.06,87.97,Undervalued (Diskon),5.43,1.18,21.76,1464.0,52.24,Downtrend (Bearish),6
-ASII.JK,Astra International Tbk,Indonesia,5300.0,9931.33,46.63,Undervalued (Diskon),7.1,0.88,11.63,757.0,70.56,Uptrend (Bullish),3
-TLKM.JK,Telkom Indonesia (Persero) Tbk.,Indonesia,2050.0,5621.44,63.53,Undervalued (Diskon),12.56,1.65,16.3,1089.0,44.93,Downtrend (Bearish),3
-ICBP.JK,Indofood CBP Sukses Makmur Tbk.,Indonesia,6300.0,10503.61,40.02,Undervalued (Diskon),8.87,1.33,13.51,427.0,56.0,Downtrend (Bearish),3
-UNTR.JK,United Tractors Tbk,Indonesia,23625.0,54939.62,57.0,Undervalued (Diskon),10.76,0.82,7.41,368.0,50.44,Downtrend (Bearish),3
-ADRO.JK,Alamtri Resources Indonesia Tbk,Indonesia,2350.0,-,-,Tidak Tersedia,5.93,13428.57,14.19,1015.0,44.44,Downtrend (Bearish),2
-AAPL,Apple Inc.,US,350.69,135.4,-159.0,Overvalued (Mahal),39.05,45.47,142.26,31.0,57.49,Uptrend (Bullish),6
-MSFT,Microsoft Corporation,US,545.18,130.45,-317.91,Overvalued (Mahal),28.45,8.61,34.22,72.0,54.81,Uptrend (Bullish),5
-GOOGL,Alphabet Inc.,US,288.15,179.96,-60.12,Overvalued (Mahal),15.05,5.37,44.29,31.0,23.76,Downtrend (Bearish),5
-AMZN,"Amazon.com, Inc.",US,266.93,10.29,-2493.63,Overvalued (Mahal),21.58,4.7,27.42,0.0,52.85,Uptrend (Bullish),4
-NVDA,NVIDIA Corporation,US,178.67,57.9,-208.58,Overvalued (Mahal),22.59,18.84,117.21,56.0,26.98,Downtrend (Bearish),4
-META,"Meta Platforms, Inc.",US,641.37,301.13,-112.99,Overvalued (Mahal),21.88,6.02,32.26,33.0,36.95,Uptrend (Bullish),4
-BRK-B,Berkshire Hathaway Inc. New,US,575.25,257.21,-123.65,Overvalued (Mahal),16.1,0.0,10.57,0.0,72.29,Uptrend (Bullish),4
-TSLA,"Tesla, Inc.",US,378.05,22.76,-1561.22,Overvalued (Mahal),415.44,16.74,3.84,0.0,51.29,Downtrend (Bearish),5
+BBCA.JK,Bank Central Asia Tbk,Indonesia,5300.0,8836.5,40.02,Undervalued (Diskon),10.97,2.3,21.2,719.0,53.73,Downtrend (Bearish),6
+BBRI.JK,Bank Rakyat Indonesia (Persero),Indonesia,2840.0,798.26,-255.77,Overvalued (Mahal),6.73,1.26,18.74,1482.0,44.23,Downtrend (Bearish),5
+BMRI.JK,Bank Mandiri (Persero) Tbk,Indonesia,3740.0,31002.06,87.94,Undervalued (Diskon),5.44,1.19,21.76,1448.0,40.0,Downtrend (Bearish),6
+ASII.JK,Astra International Tbk,Indonesia,5250.0,9931.33,47.14,Undervalued (Diskon),7.04,0.88,11.63,729.0,71.74,Uptrend (Bullish),3
+TLKM.JK,Telkom Indonesia (Persero) Tbk.,Indonesia,2070.0,5621.44,63.18,Undervalued (Diskon),12.69,1.67,16.3,1094.0,40.0,Downtrend (Bearish),3
+ICBP.JK,Indofood CBP Sukses Makmur Tbk.,Indonesia,6450.0,10503.61,38.59,Undervalued (Diskon),9.08,1.36,13.51,421.0,61.54,Downtrend (Bearish),3
+UNTR.JK,United Tractors Tbk,Indonesia,23525.0,54939.62,57.18,Undervalued (Diskon),10.72,0.82,7.41,367.0,47.62,Downtrend (Bearish),3
+ADRO.JK,Alamtri Resources Indonesia Tbk,Indonesia,2340.0,-,-,Tidak Tersedia,5.9,13371.43,14.19,1011.0,37.5,Downtrend (Bearish),2
+AAPL,Apple Inc.,US,348.51,135.4,-157.39,Overvalued (Mahal),38.81,45.18,142.26,31.0,53.12,Uptrend (Bullish),6
+MSFT,Microsoft Corporation,US,533.16,130.45,-308.7,Overvalued (Mahal),27.83,8.42,34.22,74.0,50.07,Uptrend (Bullish),5
+GOOGL,Alphabet Inc.,US,287.38,179.96,-59.69,Overvalued (Mahal),15.01,5.36,44.29,31.0,24.96,Downtrend (Bearish),5
+AMZN,"Amazon.com, Inc.",US,270.87,10.29,-2531.92,Overvalued (Mahal),21.9,4.77,27.42,0.0,55.37,Uptrend (Bullish),4
+NVDA,NVIDIA Corporation,US,168.89,57.9,-191.69,Overvalued (Mahal),21.35,17.81,117.21,59.0,19.28,Downtrend (Bearish),4
+META,"Meta Platforms, Inc.",US,641.39,301.13,-113.0,Overvalued (Mahal),21.88,6.02,32.26,33.0,35.92,Uptrend (Bullish),4
+BRK-B,Berkshire Hathaway Inc. New,US,583.34,257.98,-126.11,Overvalued (Mahal),16.33,0.0,10.57,0.0,75.56,Uptrend (Bullish),4
+TSLA,"Tesla, Inc.",US,379.78,22.76,-1568.82,Overvalued (Mahal),417.34,16.81,3.84,0.0,47.87,Downtrend (Bearish),5
